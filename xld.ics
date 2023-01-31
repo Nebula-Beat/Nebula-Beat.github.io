@@ -32,13 +32,13 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP;TZID=Asia/Shanghai:20230130T213000
-UID:霍鹭鹭20230130T213000_nb@bilibili.com
-DTSTART;TZID=Asia/Shanghai:20230130T213000
+DTSTAMP;TZID=Asia/Shanghai:20230131T213000
+UID:霍鹭鹭20230131T213000_nb@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230131T213000
 DURATION:PT120M
 SUMMARY:2D直播
-URL:bilibili://live/23274522
-DESCRIPTION:https://live.bilibili.com/23274522\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://live/6542664
+DESCRIPTION:https://live.bilibili.com/6542664\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@枭魔女霍鹭鹭 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -202,8 +202,8 @@ UID:霍鹭鹭20230202T213000_nb@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230202T213000
 DURATION:PT120M
 SUMMARY:2D直播
-URL:bilibili://live/23274522
-DESCRIPTION:https://live.bilibili.com/23274522\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://live/6542664
+DESCRIPTION:https://live.bilibili.com/6542664\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@枭魔女霍鹭鹭 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -292,8 +292,8 @@ UID:霍鹭鹭20230203T213000_nb@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230203T213000
 DURATION:PT120M
 SUMMARY:2D直播
-URL:bilibili://live/23274522
-DESCRIPTION:https://live.bilibili.com/23274522\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://live/6542664
+DESCRIPTION:https://live.bilibili.com/6542664\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@枭魔女霍鹭鹭 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -322,8 +322,8 @@ UID:霍鹭鹭20230204T213000_nb@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230204T213000
 DURATION:PT120M
 SUMMARY:2D直播
-URL:bilibili://live/23274522
-DESCRIPTION:https://live.bilibili.com/23274522\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://live/6542664
+DESCRIPTION:https://live.bilibili.com/6542664\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@枭魔女霍鹭鹭 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -397,8 +397,8 @@ UID:霍鹭鹭20230205T213000_nb@bilibili.com
 DTSTART;TZID=Asia/Shanghai:20230205T213000
 DURATION:PT120M
 SUMMARY:2D直播
-URL:bilibili://live/23274522
-DESCRIPTION:https://live.bilibili.com/23274522\n点击上方链接打开哔哩哔哩，进入直播间
+URL:bilibili://live/6542664
+DESCRIPTION:https://live.bilibili.com/6542664\n点击上方链接打开哔哩哔哩，进入直播间
 LOCATION:@枭魔女霍鹭鹭 直播间
 BEGIN:VALARM
 ACTION:DISPLAY
